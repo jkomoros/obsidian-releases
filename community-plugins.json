@@ -2132,5 +2132,13 @@
         "description": "When you click an image, it will be displayed in a popup layer and you can view, drag, zoom, rotate the image.",
         "author": "sissilab",
         "repo": "sissilab/obsidian-image-toolkit"
+    },
+    {
+        "id": "random-note-plus-plus",
+        "name": "Random note++",
+        "description": "Like the built-in Random note, but also has a command to select a random file in a configured folder or current folder",
+        "author": "jkomoros",
+        "repo": "jkomoros/random-note-plus-plus",
+        "branch": "main"
     }
 ]
