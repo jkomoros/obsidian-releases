@@ -2286,5 +2286,13 @@
         "author": "tillahoffmann",
         "description": "Run python code in Obsidian using jupyter.",
         "repo": "tillahoffmann/obsidian-jupyter"
+    },
+    {
+        "id": "random-note-plus-plus",
+        "name": "Random note++",
+        "description": "Like the built-in Random note, but also has a command to select a random file in a configured folder or current folder",
+        "author": "jkomoros",
+        "repo": "jkomoros/random-note-plus-plus",
+        "branch": "main"
     }
 ]
